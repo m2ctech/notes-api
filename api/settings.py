@@ -59,6 +59,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:8080",
+    "https://sunny-taiyaki-5470e5.netlify.app",
    
 ]
 
